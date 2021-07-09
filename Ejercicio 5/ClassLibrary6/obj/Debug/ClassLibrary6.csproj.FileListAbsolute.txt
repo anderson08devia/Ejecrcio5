@@ -1,0 +1,6 @@
+C:\Users\family\source\repos\ClassLibrary6\ClassLibrary6\bin\Debug\ClassLibrary6.exe
+C:\Users\family\source\repos\ClassLibrary6\ClassLibrary6\bin\Debug\ClassLibrary6.pdb
+C:\Users\family\source\repos\ClassLibrary6\ClassLibrary6\obj\Debug\ClassLibrary6.csprojAssemblyReference.cache
+C:\Users\family\source\repos\ClassLibrary6\ClassLibrary6\obj\Debug\ClassLibrary6.csproj.CoreCompileInputs.cache
+C:\Users\family\source\repos\ClassLibrary6\ClassLibrary6\obj\Debug\ClassLibrary6.exe
+C:\Users\family\source\repos\ClassLibrary6\ClassLibrary6\obj\Debug\ClassLibrary6.pdb
